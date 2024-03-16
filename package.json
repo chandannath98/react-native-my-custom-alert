@@ -11,5 +11,14 @@
   
   "dependencies": {
     
+  },
+  "keywords": [
+    "react-native",
+    "toast",
+    "react-native-my-custom-alert"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calintamas/react-native-toast-message.git"
   }
 }
