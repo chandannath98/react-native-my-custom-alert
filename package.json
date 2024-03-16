@@ -1,6 +1,6 @@
 {
   "name": "react-native-my-custom-alert",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Custom alert buttons",
   "main": "index.tsx",
   "scripts": {
