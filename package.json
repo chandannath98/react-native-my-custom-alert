@@ -1,0 +1,15 @@
+{
+  "name": "react-native-my-custom-alert",
+  "version": "1.0.4",
+  "description": "Custom alert buttons",
+  "main": "index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chandan_nath",
+  "license": "ISC",
+  
+  "dependencies": {
+    
+  }
+}
